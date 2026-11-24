@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramon%20Cortez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramon-cortez-a227a2112)
 [![Devpost](https://img.shields.io/badge/Devpost-27%20Projects-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rcortez056-spec)
-[![Relevance AI](https://img.shields.io/badge/Relevance%20AI-Multi--Agent%20Builder-7C3AED?style=for-the-badge)](https://relevanceai.com)
+[![Relevance AI](https://img.shields.io/badge/Relevance%20AI-Multi--Agent%20Builder-7C3AED?style=for-the-badge)](https://relevanceai.com/?via=ramon)
 [![AI Lounge](https://img.shields.io/badge/AI%20Lounge-Join%20Me-FF6B00?style=for-the-badge)](https://lounge.ai/r/@rcortez056)
 [![Claude](https://img.shields.io/badge/Built%20With-Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![San Diego](https://img.shields.io/badge/Based%20In-San%20Diego%20CA-1D4ED8?style=for-the-badge)](https://github.com/rcortez056-spec)
